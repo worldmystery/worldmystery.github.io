@@ -4,8 +4,8 @@
 url: https://en.worldsecrets.net
 title: Full Record of the World's Unsolved Mysteries
 keywords: Unsolved mysteries, Supernatural power, Occult
-description: This site aims to include cases of unsolved mysteries around the world,include
-author: A-Middle-School-Student
+description: This site aims to include cases of unsolved mysteries around the world,include:human mystery,celebrity mystery,mystery of military war,mystery of ancient civilization,archeological mystery,mystery of history and geography,animal and plant mystery,mystery of nature and science,mystery of the universe.
+author: WorldSecrets
 
 root: /
 source: content
@@ -14,10 +14,24 @@ themes_dir: themes
 theme: simple2
 
 category:
-  - name: linux  # 目录名
-    label: Linux/运维  # 目录的别名, 生成首页时可以使用
-  - name: database
-    label: 数据库
+  - name: animal-and-plant-mystery
+    label: The Mysteries of Human 
+  - name: archeological-mystery
+    label: The Mysteries of World Celebrities
+  - name: celebrity-mystery
+    label: The Mysteries of Military War
+  - name: human-mystery
+    label: The Mysteries of Ancient Civilization
+  - name: mystery-of-ancient-civilization
+    label: The Mysteries of Archeological
+  - name: mystery-of-history-and-geography
+    label: The Mysteries of History and Geography
+  - name: mystery-of-military-war
+    label: The Mysteries of Animal and Plant
+  - name: mystery-of-nature-and-science
+    label: The Mysteries of Nature and Science
+  - name: mystery-of-the-universe
+    label: Mysteries of the Universe
 
 default_ext: md
 pygments: false
